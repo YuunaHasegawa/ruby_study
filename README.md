@@ -12,7 +12,7 @@ puts "Hello world"
 ```
 
 ### コメントの書き方
-```
+```Ruby
 # puts "こんにちは"
 ```
 
